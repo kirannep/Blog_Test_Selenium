@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11786" started-at="2019-04-03T22:24:20Z" finished-at="2019-04-03T22:24:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11786" started-at="2019-04-03T22:24:20Z" finished-at="2019-04-03T22:24:32Z">
+      <class name="testNG.FeatureTest">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:testNG.FeatureTest@61832929]" name="invokeBrowser" duration-ms="7151" started-at="2019-04-03T23:24:20Z" finished-at="2019-04-03T23:24:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="adminPage()[pri:1, instance:testNG.FeatureTest@61832929]" name="adminPage" duration-ms="1143" started-at="2019-04-03T23:24:27Z" finished-at="2019-04-03T23:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminPage -->
+        <test-method status="PASS" signature="login()[pri:3, instance:testNG.FeatureTest@61832929]" name="login" duration-ms="2114" started-at="2019-04-03T23:24:28Z" finished-at="2019-04-03T23:24:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="logout()[pri:4, instance:testNG.FeatureTest@61832929]" name="logout" duration-ms="1306" started-at="2019-04-03T23:24:30Z" finished-at="2019-04-03T23:24:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testNG.FeatureTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
